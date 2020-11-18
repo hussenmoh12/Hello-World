@@ -3,7 +3,11 @@
 using namespace std;
 void main()
 {
-	string name;
-	cout << "What is your name " << endl;
-	getline(cin, name);
+	string name; int age; string address;
+	cout << "What is your name and address" << endl;
+	getline(cin, name); getline(cin, address);
+	cout << "enter your age" << endl;
+	cin >> age;
+
+
 }
