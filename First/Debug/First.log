@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\university\3rd\Agile Engineering\GitHub\First\First\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  First.vcxproj -> C:\university\3rd\Agile Engineering\GitHub\First\Debug\First.exe
